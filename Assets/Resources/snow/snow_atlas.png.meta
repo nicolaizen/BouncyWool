@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 74343897d13193b40ba17a1b5e1c9949
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: snow_atlas_0
+  - first:
+      213: 21300002
+    second: snow_atlas_1
+  - first:
+      213: 21300004
+    second: snow_atlas_2
+  - first:
+      213: 21300006
+    second: snow_atlas_3
+  - first:
+      213: 21300008
+    second: snow_atlas_4
+  - first:
+      213: 21300010
+    second: snow_atlas_5
+  - first:
+      213: 21300012
+    second: snow_atlas_6
+  - first:
+      213: 21300014
+    second: snow_atlas_7
+  - first:
+      213: 21300016
+    second: snow_atlas_8
+  - first:
+      213: 21300018
+    second: snow_atlas_9
+  - first:
+      213: 21300020
+    second: snow_atlas_10
+  - first:
+      213: 21300022
+    second: snow_atlas_11
+  - first:
+      213: 21300024
+    second: snow_atlas_12
+  - first:
+      213: 21300026
+    second: snow_atlas_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 688
+        width: 378
+        height: 65
+      alignment: 9
+      pivot: {x: 0.042390734, y: 0.30221322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 646
+        width: 402
+        height: 101
+      alignment: 9
+      pivot: {x: 0.099517345, y: 0.24924944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 587
+        width: 446
+        height: 81
+      alignment: 9
+      pivot: {x: 0.06, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 520
+        width: 344
+        height: 90
+      alignment: 9
+      pivot: {x: 0.09620164, y: 0.31999987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 473
+        width: 508
+        height: 94
+      alignment: 9
+      pivot: {x: 0.030672934, y: 0.3621641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 368
+        width: 543
+        height: 84
+      alignment: 9
+      pivot: {x: 0.028744968, y: 0.35532925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 384
+        width: 303
+        height: 82
+      alignment: 9
+      pivot: {x: 0.1155297, y: 0.32980794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 252
+        width: 638
+        height: 91
+      alignment: 9
+      pivot: {x: 0.035925865, y: 0.33461988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 264
+        width: 166
+        height: 72
+      alignment: 9
+      pivot: {x: 0.17030703, y: 0.4209455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 428
+        height: 78
+      alignment: 9
+      pivot: {x: 0.050314814, y: 0.41517738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 137
+        width: 342
+        height: 83
+      alignment: 9
+      pivot: {x: 0.071983434, y: 0.4730583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 329
+        height: 64
+      alignment: 9
+      pivot: {x: 0.06968474, y: 0.44430923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 28
+        width: 156
+        height: 42
+      alignment: 9
+      pivot: {x: 0.09, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 16
+        width: 318
+        height: 69
+      alignment: 9
+      pivot: {x: 0.06681427, y: 0.4298832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
